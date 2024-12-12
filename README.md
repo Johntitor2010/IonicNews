@@ -21,6 +21,7 @@ Este aplicativo oferece uma interface amigável para conversão de moedas usando
 ![WhatsApp Image 2024-12-12 at 17 13 10](https://github.com/user-attachments/assets/d08ac022-115d-4367-a53c-ff1561cc6579)
 ![WhatsApp Image 2024-12-12 at 17 13 35](https://github.com/user-attachments/assets/012faea3-38b7-4f71-bebf-c5e612aaedd5)
 ![WhatsApp Image 2024-12-12 at 17 14 30](https://github.com/user-attachments/assets/0ce5c792-0653-425a-846e-08937d79c133)
+![WhatsApp Image 2024-12-12 at 18 05 11](https://github.com/user-attachments/assets/1c8acd36-cb2d-48c5-9a86-1ccffb250e5b)
 
 
 ## Funcionalidades
