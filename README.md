@@ -69,13 +69,12 @@ coinnect-principal/
 └── ...                # Outros arquivos de configuração
 ```
 ## Autores
-Desenvolvido por:
 
-- Pedro Leal
-- João Vitor
-- Kaio Vitor
-- Victor Gouveia
-- Thiago Silva
+### Scrum Master e Desenvolvedor: Pedro Leal 
+### Gerente de configuração e Desenvolvedor: João Vitor Siqueira 
+### Doumentador + suporte no Github: Kaio Vitor 
+### Documentador + suporte no Github: Victor Gouveia 
+### Documentador + suporte no Github: Thiago Silva 
 
 ## Contribuicao
 
