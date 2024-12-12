@@ -77,8 +77,19 @@ coinnect-principal/
 ### Documentador + suporte no Github: Thiago Silva 
 
 ## Contribuicao
+Adoramos contribuições! Siga os passos abaixo para participar do projeto:
+Realize um fork do repositório.
 
-Livre, caso tenha ideias de melhorias, favor entrar em contato.
+Crie uma nova branch para sua funcionalidade ou correção:
+git checkout -b minha-nova-funcionalidade
+
+Realize os commits das suas alterações:
+git commit -m "Adicionada nova funcionalidade"
+
+Envie suas alterações para o repositório remoto:
+git push origin minha-nova-funcionalidade
+
+Abra um Pull Request no repositório original.
 
 ## Licença
 Este projeto está licenciado sob a Licença Creative Commons. Consulte o arquivo LICENSE para mais detalhes.
