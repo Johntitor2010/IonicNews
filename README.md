@@ -67,7 +67,7 @@ coinnect-principal/
 ├── package.json       # Metadados e scripts do projeto
 └── ...                # Outros arquivos de configuração
 ```
-##Autores
+## Autores
 Desenvolvido por:
 
 Pedro Leal
@@ -76,7 +76,7 @@ Kaio Vitor
 Victor Gouveia
 Thiago Silva
 
-##Contribuicao
+## Contribuicao
 
 Livre, caso tenha ideias de melhorias, favor entrar em contato.
 
