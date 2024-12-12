@@ -14,6 +14,12 @@ Um projeto Ionic para conversão de moedas, utilizando Angular.
 Este aplicativo oferece uma interface amigável para conversão de moedas usando taxas de câmbio em tempo real. Ele foi construído com:
 - **Angular**: Para criação de aplicações web dinâmicas de página única.
 - **Ionic Framework**: Para criar aplicações móveis responsivas e multiplataforma.
+  
+![WhatsApp Image 2024-12-12 at 17 10 44](https://github.com/user-attachments/assets/9aac2273-42b6-47b1-9e05-047fe4eaaee3)
+![WhatsApp Image 2024-12-12 at 17 13 10](https://github.com/user-attachments/assets/d08ac022-115d-4367-a53c-ff1561cc6579)
+![WhatsApp Image 2024-12-12 at 17 13 35](https://github.com/user-attachments/assets/012faea3-38b7-4f71-bebf-c5e612aaedd5)
+![WhatsApp Image 2024-12-12 at 17 14 30](https://github.com/user-attachments/assets/0ce5c792-0653-425a-846e-08937d79c133)
+
 
 ## Funcionalidades
 - Conversão de moedas em tempo real.
