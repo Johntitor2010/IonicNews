@@ -3,14 +3,16 @@
 Um projeto Ionic para conversão de moedas, utilizando Angular.
 
 ## Índice
-- [Visão Geral](#visão-geral)
+- [Descrição do projeto](#Descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
 - [Estrutura do Projeto](#estrutura-do-projeto)
+- [Autores](#Autores)
+- [Contribuicao](#Contribuicao)
 - [Licença](#licença)
 
-## Visão Geral
+## Descrição-do-projeto
 Este aplicativo oferece uma interface amigável para conversão de moedas usando taxas de câmbio em tempo real. Ele foi construído com:
 - **Angular**: Para criação de aplicações web dinâmicas de página única.
 - **Ionic Framework**: Para criar aplicações móveis responsivas e multiplataforma.
@@ -65,6 +67,18 @@ coinnect-principal/
 ├── package.json       # Metadados e scripts do projeto
 └── ...                # Outros arquivos de configuração
 ```
+##Autores
+Desenvolvido por:
+
+Pedro Leal
+João Vitor
+Kaio Vitor
+Victor Gouveia
+Thiago Silva
+
+##Contribuicao
+
+Livre, caso tenha ideias de melhorias, favor entrar em contato.
 
 ## Licença
 Este projeto está licenciado sob a Licença Creative Commons. Consulte o arquivo LICENSE para mais detalhes.
