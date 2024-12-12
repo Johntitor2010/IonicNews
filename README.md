@@ -71,11 +71,11 @@ coinnect-principal/
 ## Autores
 Desenvolvido por:
 
-Pedro Leal
-João Vitor
-Kaio Vitor
-Victor Gouveia
-Thiago Silva
+- Pedro Leal
+- João Vitor
+- Kaio Vitor
+- Victor Gouveia
+- Thiago Silva
 
 ## Contribuicao
 
